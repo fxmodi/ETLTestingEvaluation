@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SQLDatabaseConnectivity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>686107de-c798-446a-9cdb-dd0cbc503295</testCaseGuid>
+</TestCaseEntity>

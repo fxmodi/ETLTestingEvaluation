@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>ETL_Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginData</source-url>
+   </source-info>
+   <taken-date>2024-10-22T14:44:18.514+05:30</taken-date>
+   <column-names>
+      <column-name>username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Admin",
+      "checked": false
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Admin1234",
+      "checked": false
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Admin757",
+      "checked": false
+    },
+    {
+      "value": "hUKwJTbofgPU9eVlw/CnDQ\u003d\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
